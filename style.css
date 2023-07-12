@@ -1,0 +1,15 @@
+.error {
+  color: red;
+}
+.reading {
+  color: blue;
+}
+.read {
+  text-transform: uppercase;
+}
+.events {
+  height: 100px;
+  width: 100px;
+  background-color: steelblue;
+  margin: 5px;
+}
